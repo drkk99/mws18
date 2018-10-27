@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <meta charset="UTF-8">
+  <meta name="Description" content="Author: Dian Rizqi K. K., Event: MWS 2018">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#db5945" />
+  <link rel="shortcut icon" href="../images/logo.png" />
+  <link rel="manifest" href="../project3/manifest.json">  
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../project3/mystyle.css">
+  <link rel="stylesheet" href="../project3/leaflet.css"/>
+  <script src="../project3/leaflet.js"></script>
+  <title>Dian Rizqi K. K. | Mobile Web Specialist 2018</title>
+
+
+</head>
+<body class="body">
+        <main>
+        <div class="container">
+             <div class='menu'">
+				<a href="../index.html"><i class="material-icons" style="font-size:30px;">home</i> <span style="font-size:26px;">Home</span></a>   
+			 </div>
+            <div class='sidebar'>
+                <div><img width="200" height="200" class="img-profil" src="../images/dian.jpg" alt="Photo-Profile">
+	    	<p class="page-title">
+	    		<b>Dian Rizqi K. K. <br> Place Review</b></p>
+                
+                </div>
+                </div>
+            <div class="item4" id="konten">
+                    <div id="mapid"></div>
+                </div>
+                <div class="title  item1" id="title"></div>
+                <div class="showimg">
+                     <div class="image-low-res" id="picture"></div>
+                 </div>
+                
+                <div class="showrv" >
+                        <span class="reviewtext" id="review"></span>
+                </div>
+                
+            <div class='footer'>
+				<p style="color: black">&copy; 2018. <a href="http://stis.ac.id/" style="color: black">Contact me : 16.9079@stis.ac.id</a></p>
+			</div> 
+        </div> 
+   <script src="../project3/app.js"></script>
+
+<script>
+
+var run = function () {
+//     // Service worker for Progressive Web App
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('../sw.js', {
+          //scope: '?launcher' // THIS IS REQUIRED FOR RUNNING A PROGRESSIVE WEB APP FROM A NON_ROOT PATH
+        }).then(function(registration) {
+            // Registration was successful
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function(err) {
+            // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+};
+
+window.addEventListener('load', run);
+</script>
+
+    </main>
+    </body>
+</html>

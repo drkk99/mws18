@@ -1,0 +1,364 @@
+{
+  "restaurants": [{
+    "id": 1,
+    "name": "Sambal Khas Karmila",
+    "neighborhood": "Tebet",
+    "photograph": "1.jpg",
+    "address": "Jl. KH. Abdullah Syafei No. 45",
+    "latlng": {
+      "lat": -6.2258961,
+      "lng": 106.8575251
+    },
+    "cuisine_type": "Nasi",
+    "operating_hours": {
+      "Monday": "9:00 am - 10:00 pm",
+      "Tuesday": "9:00 am - 10:00 pm",
+      "Wednesday": "9:00 am - 10:00 pm",
+      "Thursday": "9:00 am - 10:00 pm",
+      "Friday": "9:00 am - 10:00 pm",
+      "Saturday": "9:00 am - 10:00 pm",
+      "Sunday": "9:00 am - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Yulian",
+        "date": "October 5, 2018",
+        "rating": 4,
+        "comments": "Ini salah satu tempat makan recommended buat kumpul bareng teman, arisan, Ulang tahun, atau lainnya.Tempatnya luas, nyaman, bersih, dan free WiFi lho..Pilihan makanannya juga banyak... Variasi sambalnya juga perlu dicoba semua. Kalau buat aku pribadi sih rasa pedasnya kurang nampol, tapi yang paling mantap sih sambal dombanya...."
+      },
+      {
+        "name": "Silvia",
+        "date": "October 1, 2018",
+        "rating": 5,
+        "comments": "Kalo ketemu sama temen dan pengen makan yang pedes2 pasti kesini. Buat yang doyan pedes, sambal2 disini juara banget. Buat yang minumnya banyak, disini tesedia es teh jumbo yang guede banget. Lokasinya juga sangat strategis, deket dengan stasiun tebet, bisa jalan kaki." },
+      {
+        "name": "Khairunnisa",
+        "date": "January 11, 2018",
+        "rating": 4,
+        "comments": "Rempah-rempahnya berasa. Nasi hainannya sih enak. Sambal karmila juara dunia sama sekali ga berasa pedasnya. So if u really like the spicy food better to try the spiciest level. If you come on rush hour, the service will be longer than usual, but still the service still professional."}
+    ]
+  }, {
+    "id": 2,
+    "name": "Kafe BE-EM",
+    "neighborhood": "Duren Sawit",
+    "photograph": "2.jpg",
+    "address": "Jl. Pondok Kelapa Raya No. 80",
+    "latlng": {
+      "lat": -6.2389617,
+      "lng": 106.9087587
+    },
+    "cuisine_type": "Kudapan Ringan",
+    "operating_hours": {
+      "Monday": "5:30 pm - 11:00 pm",
+      "Tuesday": "5:30 pm - 11:00 pm",
+      "Wednesday": "5:30 pm - 11:00 pm",
+      "Thursday": "5:30 pm - 11:00 pm",
+      "Friday": "5:30 pm - 11:00 pm",
+      "Saturday": "5:00 pm - 11:30 pm",
+      "Sunday": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
+    },
+    "reviews": [{
+        "name": "Felita",
+        "date": "August 12, 2018",
+        "rating": 4,
+        "comments": "Nice venue and open until midnight. I have problem with the payment (double charge) and just realized days after.. I contact them via instagram and suprisingly they took care of it very well and cooperate to check the transaction history. Great service! But just for suggestion, it will be greater should you improve the food taste as well.."  },
+      {
+        "name": "Winda",
+        "date": "April 20, 2018",
+        "rating": 3,
+        "comments": "Interested coming to this place because of the interior decoration. Turns out it was the only thing that good about this resto. A little bit overprice if comparing the price versus quality of the food and drinks. The place is good as hangout place for teens/young adult, but for real food/drinks you better of somewhere else." },
+      {
+        "name": "Inggil",
+        "date": "February 26, 2018",
+        "rating": 4,
+        "comments": "The place is easy to reach by public transportation, e.g train, transjakarta, or angkutan umum( the small one fits for 12 people in a car). Comic cafe not only a place for a stop by to eat, but also you can rent room for a meeting or other events. In addition, the facilities are good. They provide wifi and dispenser for free."     }
+    ]
+  }, {
+    "id": 3,
+    "name": "Fat Bubble",
+    "neighborhood": "Tebet",
+    "photograph": "3.jpg",
+    "address": "Jl. Tebet Timur Dalam 2 No. 47C",
+    "latlng": {
+      "lat": -6.2284347,
+      "lng": 106.8540653
+    },
+    "cuisine_type": "Kudapan Ringan",
+    "operating_hours": {
+      "Monday": "10:00 am - 10:00 pm",
+      "Tuesday": "10:00 am - 10:00 pm",
+      "Wednesday": "10:00 am - 10:00 pm",
+      "Thursday": "10:00 am - 10:00 pm",
+      "Friday": "10:00 am - 10:00 pm",
+      "Saturday": "10:00 am - 10:00 pm",
+      "Sunday": "10:00 am - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Wina",
+        "date": "September 5, 2018",
+        "rating": 4,
+        "comments": "I'm so freaking love fat bubble, you will find that Fat bubble in Tebet will always get full customer, because when you go there, you should pay attention with parking area. In 2018, Fat Bubble Tebet reconstruct the building become larger than before, you can also buy this dessert with online order (go food/grab food)."},
+      {
+        "name": "Irna",
+        "date": "August 15, 2018",
+        "rating": 5,
+        "comments": "Lovely place with many good meals and friendly waiters! I can say that Fat Bubble is the best place for family and friends to hang out. The price is fair since this place serves you nice with good ambience inside. Just lovely!"  },
+      {
+        "name": "Desi",
+        "date": "May 26, 2018",
+        "rating": 5,
+        "comments": "I eat the big green tea ice cream. And the taste is very yummy. Because the place is very famous so sometimes you will get waiting list. When i went here that so many waiting list. I were the seventh of the waiting list."   }
+    ]
+  }, {
+    "id": 4,
+    "name": "Geprek Bensu",
+    "neighborhood": "Tebet",
+    "photograph": "4.jpg",
+    "address": "Bepbop Food Studio, Jl. Tebet Barat IX No. 1",
+    "latlng": {
+      "lat": -6.2385485,
+      "lng": 106.8493975
+    },
+    "cuisine_type": "Nasi",
+    "operating_hours": {
+      "Monday": "8:00 am - 10:00 pm",
+      "Tuesday": "8:00 am - 10:30 pm",
+      "Wednesday": "8:00 am - 10:30 pm",
+      "Thursday": "8:00 am - 10:30 pm",
+      "Friday": "8:00 am - 10:30 pm",
+      "Saturday": "7:00 am - 11:00 pm",
+      "Sunday": "7:00 am - 11:00 pm"
+    },
+    "reviews": [{
+        "name": "Ade",
+        "date": "October 2, 2018",
+        "rating": 5,
+        "comments": "Tempatnya enak...tp lama dlm hal pemesanan karna casier hanya 2 dan itupun yg 1 hanya untuk gojek, kalo bisa di tambah lagi casiernya biar gak ngantri...overall tempatnya enak apalagi kamar mandinya bersih.. semoga lebih ditingkatkan lagi yah." },
+      {
+        "name": "Dariel",
+        "date": "June 9, 2018",
+        "rating": 4.5,
+        "comments": "Ayam gepreknya enak, ditambah pelayanannya ramah walaupun ramai tapi ada nomer antrian, jadi tidak ada yang serobot. Kalau bisa ditambah area bermain anak, jadi yang bawa anak kecil bisa ikut menikmati hidangan serta bermain. Over all pelayanannya ramah. Senang sekali berkunjung kesana dan menikmati hidangan yang pas di lidah saya dan keluarga."},
+      {
+        "name": "Broto",
+        "date": "March 6, 2018",
+        "rating": 2,
+        "comments": "Tempat nyaman, tidak bising suara kendaraan bermotor, harga murah meriah, dekat dengan pusat perbelanjaan, harga sangat murah untuk tempat makan dengan lokasi yang berada di komplek elit, recommended lah untuk makan murah dan enak. Sudah buka cabang di banyak tempat, dan setiap cabangnya pasti tidak terlalu jauh dari pusat perbelanjaan atau landmark. Belanja diatas 50 ribu dapet kupon untuk dapat kesempatan umroh gratis, lumayan kan hahaha." }
+    ]
+  }, {
+    "id": 5,
+    "name": "Ayam Gepuk Pak Gembus",
+    "neighborhood": "Duren Sawit",
+    "photograph": "5.jpg",
+    "address": "Jl Duren Sawit Raya - Dermaga",
+    "latlng": {
+      "lat": -6.2206097,
+      "lng": 106.9169603
+    },
+    "cuisine_type": "Nasi",
+    "operating_hours": {
+      "Monday": "11:00 am - 12:00 am",
+      "Tuesday": "11:00 am - 12:00 am",
+      "Wednesday": "11:00 am - 12:00 am",
+      "Thursday": "11:00 am - 12:00 am",
+      "Friday": "11:00 am - 12:00 am",
+      "Saturday": "10:00 am - 12:00 am",
+      "Sunday": "10:00 am - 12:00 am"
+    },
+    "reviews": [{
+        "name": "Maylona",
+        "date": "October 3, 2018",
+        "rating": 5,
+        "comments": "For those who love hot and spicy Indonesian fried chicken, this place is a must. The chicken Crisp outside, tender and juice inside. As for Sambal You can choose the level of hotness suit for your taste. The price is very affordable. "},
+      {
+        "name": "Sandy",
+        "date": "January 7, 2018",
+        "rating": 5,
+        "comments": "Sambelnya mantap bgt! Paling top , pelayanannya juga ramah very recommended. Ini yg di samping apotek kimia farma duren sawit yaaaa jangan salah lokasi guys!" },
+      {
+        "name": "Kamandra",
+        "date": "December 20, 2017",
+        "rating": 4,
+        "comments": "Mantaaaap! Selalu balik lagi balik lagi terus kesini. Rasa sambalnyaa selalu enak dan selalu nambah kalo makan disini."      }
+    ]
+  }, {
+    "id": 6,
+    "name": "J.CO Donuts",
+    "neighborhood": "Duren Sawit",
+    "photograph": "6.jpg",
+    "address": "Pondok Kelapa Townsquare, Lantai Ground",
+    "latlng": {
+      "lat": -6.2401365,
+      "lng": 106.9322611
+    },
+    "cuisine_type": "Roti",
+    "operating_hours": {
+      "Monday": "12:00 pm - 10:00 pm",
+      "Tuesday": "12:00 pm - 10:00 pm",
+      "Wednesday": "12:00 pm - 10:00 pm",
+      "Thursday": "12:00 pm - 10:00 pm",
+      "Friday": "12:00 pm - 11:00 pm",
+      "Saturday": "12:00 pm - 11:00 pm",
+      "Sunday": "12:00 pm - 9:00 pm"
+    },
+    "reviews": [{
+        "name": "Sisca",
+        "date": "October 6, 2018",
+        "rating": 4,
+        "comments": "Good place..having indoor and outdoor seating...has a wifi..good service..sometimes so crowded..good place for meet ans chat with friends or dating with our lovely one..."  },
+      {
+        "name": "Prasetyo",
+        "date": "September 5, 2018",
+        "rating": 5,
+        "comments": "Sering ada promo pembelian, lokasi mudah dijumpai dari pintu masuk utama supermarket. Dan untuk tempat juga simple dan nyaman untuk antri beli take away atau juga makan di tempat. Ada mesin debitnya juga bagi yang tidak bawa uang cash atau mau menggunakan credit card. Pelayanan juga ramah dan sabar melayaninya." },
+      {
+        "name": "Fahmi",
+        "date": "July 16, 2018",
+        "rating": 4,
+        "comments": "Donat kesukaan saya dan keluarga, saya suka karena tekstur nya yang lembut dan mempunyai banyak varian rasa serta bentuk yang enak dipandang dan terkesan mewah. Selain itu juga tempatnya sangat nyaman cocok untuk bersantai dan nongkrong bareng teman-teman, keluarga ataupun pasangan. Saya juga suka membeli J.co sebagai buah tangan saat berkunjung kerumah saudara ataupun sahabat."  }
+    ]
+  }, {
+    "id": 7,
+    "name": "Bakmi Berdikari",
+    "neighborhood": "Tebet",
+    "photograph": "7.jpg",
+    "address": "Jl. Tebet Timur Dalam Raya No. 39 - 41",
+    "latlng": {
+      "lat": -6.2326186,
+      "lng": 106.8544074
+    },
+    "cuisine_type": "Bakmi",
+    "operating_hours": {
+      "Monday": "11:30 am - 10:00 pm",
+      "Tuesday": "11:30 am - 10:00 pm",
+      "Wednesday": "11:30 am - 10:00 pm",
+      "Thursday": "11:30 am - 10:00 pm",
+      "Friday": "11:30 am - 10:00 pm",
+      "Saturday": "11:30 am - 10:00 pm",
+      "Sunday": "11:30 am - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Amanda",
+        "date": "August 29, 2018",
+        "rating": 5,
+        "comments": "Good flavour, good portions, and good service. Price might seem a bit expensive at first but the portions make up for it, our dessert was even much bigger than depicted in the menu! I liked the Bakmi Goreng Kepiting (fried noodles with crab claws), Sapo Tahu and Fuyunghay."},
+      {
+        "name": "Nina",
+        "date": "February 17, 2018",
+        "rating": 4,
+        "comments": "The place is clean and nice, my parents taste bud are not easy to please, but they love this place. Try order the spicy sechuan beef noodles and their salted egg calamary. Those two are my favorites."   },
+      {
+        "name": "Setia",
+        "date": "November 19, 2017",
+        "rating": 4,
+        "comments": "The food is consistently good across the menu, something very rare. You can order something random and pretty sure it'll be good. I don't find the food is that amazing in general, but it definitely delivers what you pay. The place and service is also mediocre. Great for eating in group."  }
+    ]
+  }, {
+    "id": 8,
+    "name": "Clairmont",
+    "neighborhood": "Tebet",
+    "photograph": "8.jpg",
+    "address": "Jl. Tebet Raya No. 54C",
+    "latlng": {
+      "lat": -6.2291282,
+      "lng": 106.852216
+    },
+    "cuisine_type": "Roti",
+    "operating_hours": {
+      "Monday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Tuesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Wednesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Thursday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Friday": "11:30 am - 3:00 pm, 5:30 pm - 11:30 pm",
+      "Saturday": "10:00 am - 3:00 pm, 5:30 pm - 11:30 pm",
+      "Sunday": "10:00 am - 3:00 pm, 5:30 pm - 11:00 pm"
+    },
+    "reviews": [{
+        "name": "Evie",
+        "date": "October 9, 2017",
+        "rating": 4,
+        "comments": "Last visited to this cake shop, I bought an icing cake for my little sister birthday. The icing can be decorate with your own design, i choosed frozen with choco cake (unfortunately i forget the cake's name). Is not too pricy but worth it! The place can be reach by public transportations (Angkot 03 and 34), it placed biside InulVizta Karoke. " },
+      {
+        "name": "Pawestri",
+        "date": "September 11, 2018",
+        "rating": 5,
+        "comments": "Kuenya enak-enak...sering ada diskon kalau ada  moment-moment hari special, tapi antrinya ampun dech ....saya suka tiramisu dan cake strawberrynya ..lembut banget.."      },
+      {
+        "name": "Mariana",
+        "date": "September 2, 2018",
+        "rating": 4,
+        "comments": "Toko cake in buat ngumpul Dan meeting enak kok.. lumayan. Sepi dan ga terlalu berisik.. Karena rata rata orang take away.. (ga Tau kalo weekend)Tehnya bisa refill sekali. Dan ada colokan.. <3"      }
+    ]
+  }, {
+    "id": 9,
+    "name": "Bakmi Golek",
+    "neighborhood": "Jatinegara",
+    "photograph": "9.jpg",
+    "address": "Jl. Otista Raya No. 458",
+    "latlng": {
+      "lat": -6.24083,
+      "lng": 106.8672389
+    },
+    "cuisine_type": "Bakmi",
+    "operating_hours": {
+      "Monday": "13:00 pm - 10:00 pm",
+      "Tuesday": "13:00 pm - 10:00 pm",
+      "Wednesday": "13:00 pm - 10:00 pm",
+      "Thursday": "13:00 pm - 10:00 pm",
+      "Friday": "13:00 pm - 11:00 pm",
+      "Saturday": "12:30 pm - 11:00 pm",
+      "Sunday": "12:30 pm - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Baskoro",
+        "date": "October 4, 2018",
+        "rating": 5,
+        "comments": "The restaurant is very famous in this area ... it has been served since 34 yrs ago and still exist till now. This place is the 1st restaurant they had deploy before others branches and historically they are legendary for noodles food/cullinary in OTISTA for sure."  },
+      {
+        "name": "Fred",
+        "date": "August 16, 2018",
+        "rating": 4,
+        "comments": "One of best food in town, the noodle is very delicious, had a signature juice named jus tape, this is the first bakmi golek restaurant in Jakarta. I just give four stars just because the place is so small (the place doesn't make much changes since the first time operation), but therefore the service become excellent."      },
+      {
+        "name": "Amanda",
+        "date": "August 7, 2018",
+        "rating": 4,
+        "comments": "The place is very busy, especially with take outs. The place to eat itself is very small and rather hot, maybe that is why people rather go with take outs than eating on the spot. The food, though, is still as good as I remember years ago, the brand chain do keep their flavor and taste intact all these years. The kitchen is separated into two section (I guess),  one at the front close to the street and one at the back. They only cook noodles in the front kitchen, beverages and other dishes are made in the other kitchen (and it takes a while for those dishes to be cooked, even for fried rice, maybe because of the numerous take outs they have to handle). Therefore, if you are in a rush, I suggest you to order from their noodles menu or just order for take outs."      }
+    ]
+  }, {
+    "id": 10,
+    "name": "Kafe Cerita",
+    "neighborhood": "Jatinegara",
+    "photograph": "10.jpg",
+    "address": "Jl. Otista Raya No.125-127",
+    "latlng": {
+      "lat": -6.2367147,
+      "lng": 106.8667203
+    },
+    "cuisine_type": "Kudapan Ringan",
+    "operating_hours": {
+      "Monday": "12:15 pm - 10:00 am",
+      "Tuesday": "12:15 pm - 10:00 am",
+      "Wednesday": "12:15 pm - 10:00 am",
+      "Thursday": "12:15 pm - 10:00 am",
+      "Friday": "12:15 pm - 10:00 am",
+      "Saturday": "11:00 am - 10:00 am",
+      "Sunday": "11:00 pm - 10:00 am"
+    },
+    "reviews": [{
+        "name": "Nadia",
+        "date": "October 2, 2018",
+        "rating": 4.8,
+        "comments": "Homey place to hang out with your colleagues or family. Crowds usually come around lunch time until 8 pm. First come, first serve. So, better reserve before coming with your loved ones.Recommended snack: bruschetta tuna."      },
+      {
+        "name": "Joshua",
+        "date": "September 9, 2018",
+        "rating": 5,
+        "comments": "Suitable if you have private events. Combination in door and out door. Parking area can be cramp, but you can park the car behind the resto or nearby govt office."     },
+      {
+        "name": "Rahma",
+        "date": "March 30, 2018",
+        "rating": 5,
+        "comments": "The place is Instagram-able and has some themes so you can suit with your hangouts mate."  }
+    ]
+  }]
+}

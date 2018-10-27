@@ -1,0 +1,34 @@
+{
+	"places":[
+	{
+	"lokasi": [-6.23672, 106.8667203],
+	"sponsor": "Aljazeerah's Restaurant",
+    "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/a.jpg",
+	"review":"Very high class restaurant, perfect."
+	  },
+	{
+    "sponsor": "Sambal Karmila's Restaurant",
+    "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/b.jpg",
+	"review":"Delicious food with so spicy sauce.",
+      "lat": -6.2258961,
+      "lng": 106.8575251
+	  },
+	{
+	"lokasi": [-6.24083, 106.8672389],
+    "sponsor": "Bakmi Golek's Restaurant",
+    "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/c.jpg",
+	"review":"Tasty food with cozy place, I think."
+	},
+	{
+	"lokasi": [-6.2347177, 106.8678489],
+    "sponsor": "Cerita's Cafe",
+    "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/d.jpg",
+	"review":"Nice, this cafe has instagrammable view."
+    },
+	{
+	"lokasi": [-6.242026, 106.8608846],
+    "sponsor": "Ayam Gepuk Pak Gembus's Restaurant",
+    "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/e.jpg",
+	"review":"So amazing with the food taste of this restaurant, but the place so small."
+	}	
+]}

@@ -1,0 +1,42 @@
+[
+	{
+	"name": "Aljazeerah's Restaurant",
+    "skor": "4.9",
+    "img": "https://dianrizqi-1f847.firebaseapp.com/project3/images/a.jpg",
+	"review":"Very high class restaurant, perfect.",
+      "lat": -6.23672,
+      "lng": 106.8667203
+	  },
+	{
+    "name": "Sambal Karmila's Restaurant",
+    "skor": "4.5",
+    "img": "https://dianrizqi-1f847.firebaseapp.com/project3/images/b.jpg",
+	"review":"Delicious food with so spicy sauce.",
+      "lat": -6.2258961,
+      "lng": 106.8575251
+	  },
+	{
+    "name": "Bakmi Golek's Restaurant",
+    "skor": "4.8",
+    "img": "https://dianrizqi-1f847.firebaseapp.com/project3/images/c.jpg",
+	"review":"Tasty food with cozy place, I think.",
+      "lat": -6.24083,
+      "lng": 106.8672389
+	},
+	{
+    "name": "Cerita's Cafe",
+    "skor": "4.6",
+    "img": "https://dianrizqi-1f847.firebaseapp.com/project3/images/d.jpg",
+	"review":"Nice, this cafe has instagrammable view.",
+      "lat": -6.2347177,
+      "lng": 106.8678489
+    },
+	{
+    "name": "Ayam Gepuk Pak Gembus's Restaurant",
+    "skor": "4.4",
+    "img": "https://dianrizqi-1f847.firebaseapp.com/project3/images/e.jpg",
+	"review":"So amazing with the food taste of this restaurant, but the place so small.",
+      "lat": -6.242026,
+      "lng": 106.8608846
+	}
+]
