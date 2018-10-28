@@ -7,11 +7,10 @@
 	"review":"Very high class restaurant, perfect."
 	  },
 	{
+	"lokasi": [-6.2258961, 106.8575251],
     "sponsor": "Sambal Karmila's Restaurant",
     "gambar": "https://dianrizqi-1f847.firebaseapp.com/project5/images/b.jpg",
-	"review":"Delicious food with so spicy sauce.",
-      "lat": -6.2258961,
-      "lng": 106.8575251
+	"review": "Delicious food with so spicy sauce."
 	  },
 	{
 	"lokasi": [-6.24083, 106.8672389],
